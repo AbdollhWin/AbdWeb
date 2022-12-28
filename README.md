@@ -8,8 +8,6 @@ Upcoming Projects:
 
 RoChrome
 An extension made for roblox
-
-![RoChrome](https://user-images.githubusercontent.com/118130925/209806344-452eb45d-f5da-4c2b-811f-703666287d55.png)
-
+![RoChrome](https://user-images.githubusercontent.com/118130925/209806715-d1a9bcaf-6065-4e3e-ac0c-7764e29fb4f6.png)
 
 thats it.
